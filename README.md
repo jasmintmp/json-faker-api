@@ -4,4 +4,6 @@ api to call
     Create a db.json file
     Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
     ex
-    https://my-json-server.typicode.com/jasmintmp/json-faker-api
+    https://my-json-server.typicode.com/jasmintmp/json-faker-api/db
+    where 
+    db.json is an 'endpoint'
